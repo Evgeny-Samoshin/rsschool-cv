@@ -45,8 +45,8 @@ professional retraining courses "Information systems and technologies" *(2018-20
 - **[Github @Evgeny-Samoshin](https://github.com/Evgeny-Samoshin)**
  - Unfortunately, I cannot give links to the source code of my projects. But here
 a couple of my first works that are already available online (do not judge strictly, please):
-    - **http://kvotek.ru/**
-    - **https://travelburo64.ru/**
+    - http://kvotek.ru/
+    - https://travelburo64.ru/
 
 ## English level
 
