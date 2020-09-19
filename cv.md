@@ -30,7 +30,8 @@ Base of: **HTML, CSS, JavaScript, React, Reacct-Redux, react-router, PHP, WordPr
 
 ## Education
 
-Yuri Gagarin State Technical University of Saratov, professional retraining courses "Information systems and technologies" (2018-2020)
+**Yuri Gagarin State Technical University of Saratov**,
+professional retraining courses "Information systems and technologies" *(2018-2020)*
 
 **Self-education:**
  - [learn.javascript.ru](https://learn.javascript.ru/)
@@ -41,12 +42,12 @@ Yuri Gagarin State Technical University of Saratov, professional retraining cour
 
 ## Examples of code
 
-[Github @Evgeny-Samoshin](https://github.com/Evgeny-Samoshin)
-Unfortunately, I cannot give links to the source code of my projects. But here
+- **[Github @Evgeny-Samoshin](https://github.com/Evgeny-Samoshin)**
+ - Unfortunately, I cannot give links to the source code of my projects. But here
 a couple of my first works that are already available online (do not judge strictly, please):
-http://kvotek.ru/
-https://travelburo64.ru/
+    - **http://kvotek.ru/**
+    - **https://travelburo64.ru/**
 
 ## English level
 
-A1-A2 or Elemetary, or basic-level
+**A1-A2** or Elemetary, or basic-level
